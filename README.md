@@ -1,7 +1,3 @@
-This `README.md` is designed to provide a professional overview of your project, incorporating technical details from your files and a dedicated section on operational and security precautions to ensure safe deployment to GitHub.
-
----
-
 # UrbanRetail World Model: Kunshan Coffee Site Selection 
 
 The **UrbanRetail World Model** is an AI-driven decision-support system that integrates spatial gravity models with Large Language Model (LLM) reasoning to evaluate commercial site viability in Kunshan, China. By combining real-time geospatial data with strategic business logic, the system helps entrepreneurs navigate complex urban dynamics.
